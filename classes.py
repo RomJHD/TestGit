@@ -3,3 +3,4 @@ class lol():
         self.lel="lel"
         self.kek="kek"
         self.isTrue=True
+        self.attribue=False
