@@ -4,3 +4,4 @@ class lol():
         self.kek="kek"
         self.isTrue=True
         self.attribue=False
+        self.test="Test"
