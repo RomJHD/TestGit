@@ -5,3 +5,4 @@ class lol():
         self.isTrue=True
         self.attribue=False
         self.test="Test"
+        self.age="33"
